@@ -1,0 +1,39 @@
+body {
+    background-color: #ffc400;
+    color: white;
+    font-size: 21px;
+}
+
+.Header{
+    color: black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.link{
+    color: red;
+    font-size: 20px;
+}
+
+.text , ul, ol{
+    color: black ;
+    font-size: 25px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.shots , .logo{
+    overflow: hidden;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+}
+
+.shots{
+    border-radius: 30%;
+}
+
+.logo{
+    border-radius: 50%;
+    width: 500px;
+}
